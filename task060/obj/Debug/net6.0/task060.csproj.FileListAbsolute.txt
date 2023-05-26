@@ -1,0 +1,15 @@
+/Users/fly2moon/Desktop/GeekBrains/sem8_homework/homework_sem8/task060/bin/Debug/net6.0/task060
+/Users/fly2moon/Desktop/GeekBrains/sem8_homework/homework_sem8/task060/bin/Debug/net6.0/task060.deps.json
+/Users/fly2moon/Desktop/GeekBrains/sem8_homework/homework_sem8/task060/bin/Debug/net6.0/task060.runtimeconfig.json
+/Users/fly2moon/Desktop/GeekBrains/sem8_homework/homework_sem8/task060/bin/Debug/net6.0/task060.dll
+/Users/fly2moon/Desktop/GeekBrains/sem8_homework/homework_sem8/task060/bin/Debug/net6.0/task060.pdb
+/Users/fly2moon/Desktop/GeekBrains/sem8_homework/homework_sem8/task060/obj/Debug/net6.0/task060.csproj.AssemblyReference.cache
+/Users/fly2moon/Desktop/GeekBrains/sem8_homework/homework_sem8/task060/obj/Debug/net6.0/task060.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fly2moon/Desktop/GeekBrains/sem8_homework/homework_sem8/task060/obj/Debug/net6.0/task060.AssemblyInfoInputs.cache
+/Users/fly2moon/Desktop/GeekBrains/sem8_homework/homework_sem8/task060/obj/Debug/net6.0/task060.AssemblyInfo.cs
+/Users/fly2moon/Desktop/GeekBrains/sem8_homework/homework_sem8/task060/obj/Debug/net6.0/task060.csproj.CoreCompileInputs.cache
+/Users/fly2moon/Desktop/GeekBrains/sem8_homework/homework_sem8/task060/obj/Debug/net6.0/task060.dll
+/Users/fly2moon/Desktop/GeekBrains/sem8_homework/homework_sem8/task060/obj/Debug/net6.0/refint/task060.dll
+/Users/fly2moon/Desktop/GeekBrains/sem8_homework/homework_sem8/task060/obj/Debug/net6.0/task060.pdb
+/Users/fly2moon/Desktop/GeekBrains/sem8_homework/homework_sem8/task060/obj/Debug/net6.0/task060.genruntimeconfig.cache
+/Users/fly2moon/Desktop/GeekBrains/sem8_homework/homework_sem8/task060/obj/Debug/net6.0/ref/task060.dll
